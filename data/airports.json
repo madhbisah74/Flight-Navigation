@@ -1,0 +1,97 @@
+{
+    "DEL": {
+        "name": "Indira Gandhi International Airport",
+        "city": "Delhi",
+        "country": "India",
+        "latitude": 28.5562,
+        "longitude": 77.1000
+    },
+
+    "BOM": {
+        "name": "Chhatrapati Shivaji Maharaj International Airport",
+        "city": "Mumbai",
+        "country": "India",
+        "latitude": 19.0896,
+        "longitude": 72.8656
+    },
+
+    "BLR": {
+        "name": "Kempegowda International Airport",
+        "city": "Bengaluru",
+        "country": "India",
+        "latitude": 13.1986,
+        "longitude": 77.7066
+    },
+
+    "MAA": {
+        "name": "Chennai International Airport",
+        "city": "Chennai",
+        "country": "India",
+        "latitude": 12.9941,
+        "longitude": 80.1709
+    },
+
+    "HYD": {
+        "name": "Rajiv Gandhi International Airport",
+        "city": "Hyderabad",
+        "country": "India",
+        "latitude": 17.2403,
+        "longitude": 78.4294
+    },
+
+    "CCU": {
+        "name": "Netaji Subhas Chandra Bose International Airport",
+        "city": "Kolkata",
+        "country": "India",
+        "latitude": 22.6547,
+        "longitude": 88.4467
+    },
+
+    "LHR": {
+        "name": "London Heathrow Airport",
+        "city": "London",
+        "country": "United Kingdom",
+        "latitude": 51.4700,
+        "longitude": -0.4543
+    },
+
+    "DXB": {
+        "name": "Dubai International Airport",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "latitude": 25.2532,
+        "longitude": 55.3657
+    },
+
+    "SIN": {
+        "name": "Singapore Changi Airport",
+        "city": "Singapore",
+        "country": "Singapore",
+        "latitude": 1.3644,
+        "longitude": 103.9915
+    },
+
+    "JFK": {
+        "name": "John F. Kennedy International Airport",
+        "city": "New York",
+        "country": "United States",
+        "latitude": 40.6413,
+        "longitude": -73.7781
+    },
+
+    "CDG": {
+        "name": "Charles de Gaulle Airport",
+        "city": "Paris",
+        "country": "France",
+        "latitude": 49.0097,
+        "longitude": 2.5479
+    },
+
+    "FRA": {
+        "name": "Frankfurt Airport",
+        "city": "Frankfurt",
+        "country": "Germany",
+        "latitude": 50.0379,
+        "longitude": 8.5622
+    }
+}

@@ -1,0 +1,97 @@
+[
+    {
+        "flight_number": "AI101",
+        "airline": "Air India",
+        "aircraft": "Boeing 787",
+        "departure": "DEL",
+        "destination": "LHR"
+    },
+
+    {
+        "flight_number": "AI102",
+        "airline": "Air India",
+        "aircraft": "Airbus A350",
+        "departure": "LHR",
+        "destination": "DEL"
+    },
+
+    {
+        "flight_number": "6E201",
+        "airline": "IndiGo",
+        "aircraft": "Airbus A320",
+        "departure": "DEL",
+        "destination": "BOM"
+    },
+
+    {
+        "flight_number": "6E305",
+        "airline": "IndiGo",
+        "aircraft": "Airbus A320",
+        "departure": "BLR",
+        "destination": "DEL"
+    },
+
+    {
+        "flight_number": "AI501",
+        "airline": "Air India",
+        "aircraft": "Airbus A320neo",
+        "departure": "DEL",
+        "destination": "BLR"
+    },
+
+    {
+        "flight_number": "AI701",
+        "airline": "Air India",
+        "aircraft": "Boeing 787",
+        "departure": "DEL",
+        "destination": "DXB"
+    },
+
+    {
+        "flight_number": "EK511",
+        "airline": "Emirates",
+        "aircraft": "Boeing 777",
+        "departure": "DEL",
+        "destination": "DXB"
+    },
+
+    {
+        "flight_number": "EK500",
+        "airline": "Emirates",
+        "aircraft": "Airbus A380",
+        "departure": "DXB",
+        "destination": "JFK"
+    },
+
+    {
+        "flight_number": "SQ423",
+        "airline": "Singapore Airlines",
+        "aircraft": "Airbus A350",
+        "departure": "DEL",
+        "destination": "SIN"
+    },
+
+    {
+        "flight_number": "LH761",
+        "airline": "Lufthansa",
+        "aircraft": "Airbus A350",
+        "departure": "DEL",
+        "destination": "FRA"
+    },
+
+    {
+        "flight_number": "AF225",
+        "airline": "Air France",
+        "aircraft": "Boeing 777",
+        "departure": "DEL",
+        "destination": "CDG"
+    },
+
+    {
+        "flight_number": "BA142",
+        "airline": "British Airways",
+        "aircraft": "Boeing 787",
+        "departure": "DEL",
+        "destination": "LHR"
+    }
+]
